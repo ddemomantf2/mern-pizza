@@ -1,5 +1,5 @@
 const express = require("express");
-const pizza = require('C:\\Users\\user\\Desktop\\mern-pizza\\server.js')
+const pizza = require("C:\Users\user\Desktop\mern-pizza\server.js")
 const db = require("./db")
 
 const app = express();
